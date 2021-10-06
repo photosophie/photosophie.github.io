@@ -1,0 +1,37 @@
+<squaregallery>
+	<column>
+		<square>
+			<pic>s01.webp</pic>
+			<galleryname>hambi</galleryname>
+			<seriestitle>FIGHT FOR FUTURE</seriestitle>
+			<gtext>Die Besetzung im Hambacher Wald wurde im Jahr 2018 für den Energiekonzern RWE geräumt. Dadurch wurde sie zum Symbolträger in der Klimabewegung. Die Serie zeigt Menschen die frei ohne Herrschaft und solidarisch miteinander leben und ihre Zeit dem Kampf für eine gerechtere Welt, jenseits von kapitalistischen Zwängen  gewidmet haben. Es werden verschiedene Möglichkeiten des aktiven Widerstands gezeigt. Die Betrachter sollen so annimiert werden selbst aktiv zu werden.
+			</gtext>
+		</square>	
+		<square>
+			<pic>s11.webp</pic>
+			<galleryname>heimat</galleryname>
+			<seriestitle>HEIMAT</seriestitle>
+			<gtext>Was bedeutet Heimat? Ist es ein Ort oder vielmehr ein Gefühl dass du in dir trägst und durch bestimmte Einflüsse hervorgerufen wird: Ein Geruch, eine Person oder eine besondere Landschaft? In dieser Serie begleite ich meine Mutter an den Ort an dem sie aufgewachsen ist und wo auch ich große Teile meiner Kindheit verbracht habe.
+			</gtext>
+		</square>
+	</column>
+	<column>
+		<square>
+			<pic>s21.webp</pic>
+			<galleryname>nobel</galleryname>
+			<seriestitle>NOBELHART &amp; SCHMUTZIG</seriestitle>
+			<gtext>
+			Ein Restaurant in der Berliner Friedrichstraße, das sich dadurch auszeichnet nur regionale und saisonale Produkte zu verwenden und folglich auf Pfeffer, Zimt und Schokolade verzichtet. Die Produkte kommen von ausgewählten Lieferanten aus der Umgebung. Das Essen wird in den  Räumlichkeiten des Nobelhart &amp; Schmutzig zu einem Erlebnis der etwas anderen Art. 
+			</gtext>
+		</square>
+	</column>
+	<column>
+		<square>
+			<pic>s02.webp</pic>
+			<galleryname>peace</galleryname>
+			<seriestitle>PEACE OF LAND</seriestitle>
+			<gtext>Im Jahr 2016 wurde im Osten Berlins damit begonnen auf einem prachliegenden Grundstück ein Gemeinschafts-Permakutlur-Gartenprojekt entstehen zu lassen "Peace of Land".
+			</gtext>
+		</square>
+	</column>
+</squaregallery>

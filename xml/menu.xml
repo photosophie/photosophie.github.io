@@ -1,0 +1,38 @@
+<menu>
+	<page>
+		<title>news</title>
+		<content>html</content>
+	</page>
+	<page>
+		<title>home</title>
+		<content>gallery</content>
+	</page>
+	<page>
+		<title>portraits</title>
+		<content>gallery</content>
+	</page>
+	<page>
+		<title>series</title>
+		<content>html</content>
+		<subpage>
+			<title>fight for future</title>
+			<content>gallery</content>
+		</subpage>
+		<subpage>
+			<title>heimat</title>
+			<content>gallery</content>
+		</subpage>
+		<subpage>
+			<title>nobelhart_schmutzig</title>
+			<content>gallery</content>
+		</subpage>
+		<subpage>
+			<title>peace of land</title>
+			<content>gallery</content>
+		</subpage>
+	</page>
+	<page>
+		<title>contact</title>
+		<content>html</content>
+	</page>
+</menu>

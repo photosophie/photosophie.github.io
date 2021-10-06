@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sophie Reuter Photography</title>
+    <link rel="stylesheet" href="css/bulma.css" />
+	<link rel="stylesheet" href="css/app.css" />
+
+  </head>
+  <body>
+  <section class="section">
+    <div class="container" id="menucontent">
+		<div class="columns is-vcentered">
+			<div class="column">
+				<h1 class="title" id="tit">
+				</h1>
+				<p class="subtitle" id="sub">
+				</p>
+			</div>
+
+			<div class="column is-one-third">
+				<div class="columns is-mobile">
+					<div class="column menu">
+						<a href="javascript:void(0)" onclick="contentload('home');">home</a>
+					</div>
+					<div class="column menu">
+						<a href="javascript:void(0)" onclick="contentload('portraits');">portraits</a>
+					</div>
+					<div class="column menu">
+						<a href="javascript:void(0)" onclick="contentload('series');">series</a>
+					</div>
+					<div class="column menu">
+						<a href="javascript:void(0)" onclick="contentload('contact');">contact</a>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+  </section>
+    <section class="section">
+		<div class="container" id="maincontent"></div>
+	</section>
+	<section class="section">
+		<div class="container" id="footercontent">
+		<a href="">Impressum</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="">Datenschutz</a>
+
+		</div>
+	</section>
+	<script src="js/modal.js"></script>
+	<script src="js/xml.js"></script>
+	<script> headload(); </script>		
+	<script> menuload(); </script>	
+	<script> contentload("home"); </script>
+  </body>
+</html>
